@@ -158,9 +158,9 @@ We extend our gratitude to the open-source community for invaluable tools and re
 
 Stay updated with our latest projects and announcements:
 
-- **Facebook**: [FusionCraft Studios](#)
-- **Instagram**: [@fusioncraftstudios](#)
-- **GitHub**: [FusionCraft Studios](https://github.com/<your-username>)
+- **Facebook**: [FusionCraft Studios](https://www.facebook.com/profile.php?id=100011132225204))
+- **Instagram**: [[@fusioncraftstudios](https://www.instagram.com/iamlrba/)
+- **GitHub**: [FusionCraft Studios](https://github.com/IamLRBA)
 - **Twitter (X)**: [@fusioncraft](#)
 - **TikTok**: [FusionCraft Studios](#)
 - **Telegram**: [FusionCraft Studios](#)
