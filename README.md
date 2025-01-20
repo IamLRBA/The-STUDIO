@@ -143,7 +143,7 @@ This project is distributed under the **MIT License**. For details, see the `LIC
 
 For inquiries or support, reach out through:
 
-- **Email**: contact@fusioncraftstudios.com
+- **Email**: jerrylarubafestus@gmail.com
 - **Website**: [FusionCraft Studios](https://fusioncraftstudios.com)
 
 ---
