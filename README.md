@@ -116,4 +116,56 @@ Identify any bugs or propose new features by opening an issue:
 
 ---
 
+## 🛠️ Pull Request Checklist
+
+When submitting a PR:
+- Ensure it targets the `main` branch.
+- Include a detailed explanation of the modifications made.
+- Reference relevant issues (if applicable).
+
+---
+
+## 👥 Collaboration Opportunities
+
+We actively welcome dialogue about design enhancements, new features, and collaborative projects. Engage with us via:
+
+1. Opening a GitHub issue tagged with the `discussion` label.
+2. Connecting through our official social media channels listed in the footer.
+
+---
+
+## 🔒 License
+
+This project is distributed under the **MIT License**. For details, see the `LICENSE` file.
+
+---
+
+## 📞 Contact Us
+
+For inquiries or support, reach out through:
+
+- **📧 Email**: jerrylarubafestus@gmail.com
+- **🌐 Website**: [FusionCraft Studios](https://fusioncraftstudios.com)
+
+---
+
+## ✨ Acknowledgements
+
+We extend our gratitude to the open-source community for invaluable tools and resources utilized in this project. Special thanks to contributors who help shape the future of FusionCraft Studios.
+
+---
+
+## 📰 Social Media Presence
+
+Stay updated with our latest projects and announcements:
+
+- **📻 Facebook**: [FusionCraft Studios](https://www.facebook.com/profile.php?id=100011132225204)
+- **📷 Instagram**: [@fusioncraftstudios](https://www.instagram.com/iamlrba/)
+- **🐛 GitHub**: [FusionCraft Studios](https://github.com/IamLRBA)
+- **❌ Twitter (X)**: [@fusioncraft](#)
+- **🎮 TikTok**: [FusionCraft Studios](#)
+- **📞 Telegram**: [FusionCraft Studios](#)
+- **📥 WhatsApp**: [Message Us](#)
+
+
 
