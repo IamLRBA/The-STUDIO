@@ -17,3 +17,28 @@ Welcome to the **FusionCraft Studios Website** repository! This platform is a te
 - **💻 Responsive Design Paradigm**: Optimized for flawless performance across devices of all sizes.
 
 ---
+
+## 📂 Project Architecture
+
+**Directory Overview:**
+
+```
+FusionCraft-Studios-Website/
+│
+├── index.html      # Core HTML structure
+├── app.css         # Stylistic framework
+├── script.js       # Interactive functionality
+└── assets/         # Multimedia assets and resources
+```
+
+---
+
+## 🚀 Getting Started
+
+### ⚙️ System Requirements
+
+To view and modify this project locally, ensure the following tools are installed:
+- A modern web browser (🔍 Chrome, Firefox, Edge, Safari)
+- A text/code editor (e.g., Visual Studio Code 💡)
+- Git (⚓ Optional for repository cloning)
+
