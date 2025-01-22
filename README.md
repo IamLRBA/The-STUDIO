@@ -98,3 +98,22 @@ We value the contributions of developers, designers, and enthusiasts to enhance 
 
 ---
 
+## 🔒 Contribution Guidelines
+
+- Maintain adherence to the existing code structure and conventions.
+- Write clear, descriptive commit messages.
+- Perform rigorous testing to ensure compatibility and stability.
+
+---
+
+## 🔒 Issue Reporting
+
+Identify any bugs or propose new features by opening an issue:
+
+1. Go to the **Issues** tab of the repository.
+2. Click **New Issue**.
+3. Provide a detailed description and, if applicable, steps to reproduce the issue.
+
+---
+
+
