@@ -6,7 +6,7 @@ Welcome to the **FusionCraft Studios Website** repository! This platform serves 
 
 ## 🌟 Key Features
 
-- **🔄 Fluid Scrolling Architecture**: Immerse yourself in a continuous, scroll-driven narrative that highlights our projects.
+- **🔄 Fluid Scrolling Architecture**: An engaging scroll-driven narrative that highlights our projects seamlessly.
 - **🎨 Dynamic Project Pages**: Each project features detailed metadata including name, inspiration, type, and high-resolution visuals.
 - **🔍 Interactive Media Viewer**: Navigate project imagery effortlessly using next/previous controls or intuitive mouse gestures.
 - **⚖️ Intuitive Navigation System**:
